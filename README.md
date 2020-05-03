@@ -1,5 +1,5 @@
 # Python-scripting---->
-- Python is easily understood by begeners.
+- Python is easily understood by beginners.
 - Python is a powerful scripting langauage.
 - Python was first developed in the year 1989 (December) by Guido van Rossum.
 - At Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC language (itself inspired by SETL).
