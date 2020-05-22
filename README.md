@@ -8,3 +8,4 @@
 
 
 - https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/python.png?1511889799
+- https://www.tutorialspoint.com/python/images/python-mini.jpg
